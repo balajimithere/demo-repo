@@ -7,3 +7,4 @@ bug1-commit1
 bug1-commit2
 bug2-fix
 task5-commit1
+task6-commit1
