@@ -4,3 +4,4 @@ task3-commit2
 task4-commit1
 task4-commit2
 bug1-commit1
+bug1-commit2
