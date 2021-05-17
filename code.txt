@@ -6,3 +6,4 @@ task4-commit2
 bug1-commit1
 bug1-commit2
 bug2-fix
+jira-9-hotfix
