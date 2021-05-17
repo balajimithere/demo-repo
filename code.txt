@@ -8,3 +8,4 @@ bug1-commit2
 bug2-fix
 task5-commit1
 jira-9-bugfix-commit1
+jira-9-bugfix-commit2
